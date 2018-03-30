@@ -22,5 +22,8 @@ class studentAge extends student{
 	public function setStudentAge($age){
 		$this->studentAge=$age;
 	}
+	public function getStudentAge(){
+		return $this->studentAge;
+	}
 }
 ?>
