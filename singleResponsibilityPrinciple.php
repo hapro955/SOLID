@@ -19,6 +19,8 @@ class studentName extends student{
 }
 
 class studentAge extends student{
-	
+	public function setStudentAge($age){
+		$this->studentAge=$age;
+	}
 }
 ?>
