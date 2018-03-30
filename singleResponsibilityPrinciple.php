@@ -13,6 +13,9 @@ class studentName extends student{
 	public function setStudentName($name){
 		$this->studentName=$name;
 	}
+	public function getStudentName(){
+		return $this->studentName;
+	}
 }
 
 ?>
