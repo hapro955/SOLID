@@ -10,7 +10,9 @@ class student{
 }
 
 class studentName extends student{
-
+	public function setStudentName($name){
+		$this->studentName=$name;
+	}
 }
 
 ?>
