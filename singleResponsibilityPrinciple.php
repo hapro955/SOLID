@@ -9,7 +9,8 @@ class student{
 	}
 }
 
-class setStudentName extends student{
+class studentName extends student{
 
 }
+
 ?>
