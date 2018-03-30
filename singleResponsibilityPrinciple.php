@@ -8,4 +8,8 @@ class student{
 		$this->studentName=$name;
 	}
 }
+
+class setStudentName extends student{
+
+}
 ?>
