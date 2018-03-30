@@ -18,4 +18,7 @@ class studentName extends student{
 	}
 }
 
+class studentAge extends student{
+	
+}
 ?>
